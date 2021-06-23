@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Mamifero
+comment1.params=
+comment1.target=java.lang.String\ sonido()
+comment2.params=
+comment2.target=java.lang.String\ Colorpelo()
+comment3.params=
+comment3.target=java.lang.String\ habitat()
+comment4.params=
+comment4.target=void\ Datos()
+comment5.params=
+comment5.target=void\ Datos2()
+comment6.params=
+comment6.target=void\ Datos3()
+numComments=7

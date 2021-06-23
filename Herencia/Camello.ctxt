@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Camello
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Gato\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=m
+comment1.target=void\ Montar(java.lang.String)
+comment1.text=\r\n\ ELIGA\ EL\ MATERIAL\ PARA\ MONTAR\ EL\ CABELLO\:\ solo\ puede\ elegir\ entre\ CUERO\ O\ METAL.\r\n
+comment2.params=
+comment2.target=void\ almacenar()
+comment3.params=
+comment3.target=java.lang.String\ Colorpelo()
+comment4.params=
+comment4.target=java.lang.String\ sonido()
+comment5.params=
+comment5.target=java.lang.String\ habitat()
+numComments=6

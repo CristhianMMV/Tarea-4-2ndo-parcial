@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Oso
+comment1.params=raza
+comment1.target=void\ Cazar(java.lang.String)
+comment1.text=\r\n\ solo\ puede\ ser\ Pardo\ o\ Polar.\r\n
+comment2.params=
+comment2.target=void\ Hibernar()
+comment3.params=color
+comment3.target=java.lang.String\ Colorpelo(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ sonido()
+comment5.params=
+comment5.target=java.lang.String\ habitat()
+numComments=6
